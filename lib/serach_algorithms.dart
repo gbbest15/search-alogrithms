@@ -1,5 +1,5 @@
 int calculate() {
-  return binarySearch([12, 34, 55, 5, 65, 767, 898, 434, 343], 343);
+  return binarySearch([12, 13, 14, 15, 16, 17, 18, 19, 20], 19);
 }
 
 binarySearch(List<int> value, int searchForInTheList) {
